@@ -1,0 +1,15 @@
+/**
+ * Theme Name: Art Deco Rojo
+ * Template: hoopoe
+ * Author: Valentine Tanasovich
+ * Author URI: https://tanasovich.net
+ * Description: Mix of church brick, autumn pumpkins and Black Sea colors. Revised version of Hoopoe theme.
+ * Requires at least: 6.0
+ * Requires PHP: 7.0
+ * Version: 1.0.0
+ */
+
+ :hover.wp-element-button {
+   color: var(--wp--preset--color--two);
+   background-color: var(--wp--preset--color--three);
+ }
