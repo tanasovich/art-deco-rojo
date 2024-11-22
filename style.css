@@ -27,7 +27,7 @@
 }
 
 .wpcf7-not-valid-tip {
-  color: var(--wp--preset-color-one);
+  color: var(--wp--preset--color--one);
   font-weight: 900;
 }
 
