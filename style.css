@@ -6,7 +6,7 @@
  * Description: Mix of church brick, autumn pumpkins and Black Sea colors. Revised version of Hoopoe theme.
  * Requires at least: 6.0
  * Requires PHP: 7.0
- * Version: 1.0.1
+ * Version: 1.0.2
  */
 
  :hover.wp-element-button {
@@ -25,3 +25,9 @@
   font-size: 1em;
   padding: calc(.667em + 2px);
 }
+
+.wpcf7-not-valid-tip {
+  color: var(--wp--preset-color-one);
+  font-weight: 900;
+}
+
