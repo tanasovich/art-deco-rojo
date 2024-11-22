@@ -9,7 +9,7 @@
  * Version: 1.0.2
  */
 
- :hover.wp-element-button {
+ :hover.wp-element-button, .wpcf7 input[type="submit"] {
    color: var(--wp--preset--color--two);
    background-color: var(--wp--preset--color--three);
  }
@@ -26,8 +26,23 @@
   padding: calc(.667em + 2px);
 }
 
+.wpcf7 input[type="submit"] {
+  font-family: inherit;
+  font-weight: var(--wp--custom--button--typography--font-weight);
+  font-size: inherit;
+  text-transform: var(--wp--custom--button--typography--transform);
+  padding-top: 0.2vw;
+  padding-right: 1vw;
+  padding-bottom: 0.2vw;
+  padding-left: 1vw;
+  color: var(--wp--custom--button--color--font);
+  background-color: var(--wp--preset--color--two);
+  border-radius: var(--wp--custom--button--border--radius);
+  border-width: var(--wp--custom--button--border--width);
+  border-color: var(--wp--custom--button--border--color);
+}
+
 .wpcf7-not-valid-tip {
   color: var(--wp--preset--color--one);
   font-weight: 900;
 }
-
