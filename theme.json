@@ -22,6 +22,15 @@
 				"page"
 			],
 			"title": "Free Home"
+		},
+		{
+		
+			"name": "article",
+			"postTypes": [
+				"page",
+				"post"
+			],
+			"title": "Article"
 		}
 	],
 	"settings": {
