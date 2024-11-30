@@ -220,52 +220,52 @@
 			"fontSizes": [
 				{
 					"name": "Small",
-					"size": "1vw",
+					"size": "clamp(0.7813rem, 0.6078rem + 0.8674vw, 1.28rem)",
 					"slug": "small"
 				},
 				{
 					"name": "Midsmall",
-					"size": "1.5vw",
+					"size": "clamp(0.9375rem, 0.7071rem + 1.1522vw, 1.6rem)",
 					"slug": "midsmall"
 				},
 				{
 					"name": "Medium",
-					"size": "2vw",
+					"size": "clamp(1.125rem, 0.8207rem + 1.5217vw, 2rem)",
 					"slug": "medium"
 				},
 				{
 					"name": "Moderate",
-					"size": "2.5vw",
+					"size": "clamp(1.35rem, 0.95rem + 2vw, 2.5rem)",
 					"slug": "moderate"
 				},
 				{
 					"name": "Big",
-					"size": "3vw",
+					"size": "clamp(1.62rem, 1.0965rem + 2.6174vw, 3.125rem)",
 					"slug": "big"
 				},
 				{
 					"name": "Bigger",
-					"size": "4vw",
+					"size": "clamp(1.944rem, 1.2615rem + 3.4126vw, 3.9063rem)",
 					"slug": "bigger"
 				},
 				{
 					"name": "Large",
-					"size": "5vw",
+					"size": "clamp(2.3328rem, 1.4458rem + 4.4348vw, 4.8828rem)",
 					"slug": "large"
 				},
 				{
 					"name": "Extra Large",
-					"size": "6vw",
+					"size": "clamp(2.7994rem, 1.6501rem + 5.7464vw, 6.1035rem)",
 					"slug": "x-large"
 				},
 				{
 					"name": "Enormous",
-					"size": "10vw",
+					"size": "clamp(3.3592rem, 1.874rem + 7.4264vw, 7.6294rem)",
 					"slug": "enormous"
 				},
 				{
 					"name": "Big Buttons",
-					"size": "4vw",
+					"size": "clamp(1.944rem, 1.2615rem + 3.4126vw, 3.9063rem)",
 					"slug": "bigbuttons"
 				}
 			],
