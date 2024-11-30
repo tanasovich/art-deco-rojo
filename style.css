@@ -31,10 +31,10 @@
   font-weight: var(--wp--custom--button--typography--font-weight);
   font-size: inherit;
   text-transform: var(--wp--custom--button--typography--transform);
-  padding-top: 0.2vw;
-  padding-right: 1vw;
-  padding-bottom: 0.2vw;
-  padding-left: 1vw;
+  padding-top: 0.1em;
+  padding-right: 0.5em;
+  padding-bottom: 0.1em;
+  padding-left: 0.5em;
   color: var(--wp--custom--button--color--font);
   background-color: var(--wp--preset--color--two);
   border-radius: var(--wp--custom--button--border--radius);
